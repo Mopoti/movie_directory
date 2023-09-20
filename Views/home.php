@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>CinéPédia</title>
+  <title>Title</title>
   <meta name="author" content="Quentin Mercier">
   
   <link rel="stylesheet" href="./public/css/style.css">
